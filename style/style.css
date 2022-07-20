@@ -1,0 +1,44 @@
+.item{
+    margin: 30px;
+}
+.text{
+    width: 60%;
+    padding: 5px;
+    border-radius: 3px;
+    margin-right: 10px;
+}
+.new-form{
+    padding: 10px;
+}
+.add{
+    padding: 5px;
+    border-radius: 3px;
+    font-weight: bold;
+}
+.drop{
+    margin: 30px;
+    /* display: block; */
+}
+.top .task{
+    width: 60%;
+    padding: 5px;
+    border-radius: 3px;
+    margin-right: 10px;
+}
+.buttons{
+    margin-top: 10px;
+    text-transform: uppercase;
+}
+button:hover{
+    opacity: 0.8;
+}
+.update{
+    padding: 5px;
+    border-radius: 3px;
+    font-weight: bold;
+}
+.delete{
+    padding: 5px;
+    border-radius: 3px;
+    font-weight: bold;
+}
